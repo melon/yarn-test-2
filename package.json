@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/melon/yarn-test-2#readme",
   "dependencies": {
-    "yarn-test-2": "^0.1.0"
+    "yarn-test-1": "^0.1.0"
   }
 }
